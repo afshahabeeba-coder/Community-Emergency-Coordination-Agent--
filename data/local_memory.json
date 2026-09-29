@@ -1,0 +1,1077 @@
+[
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T08:50:22.555118"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T08:50:22.573510"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T08:50:22.573510"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T08:51:01.565214"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T08:51:01.581921"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T08:51:01.581921"
+ },
+ {
+  "content": "Incident INC-0002: other severity 5 at kukatpally. Water is entering homes in Kukatpally, about 12 families trapped, an elderly man is unwell. Dispatched: ['first_aid']. Volunteers: ['Lakshmi Devi', 'Priya Nair', 'Dr. Anita Rao']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T08:54:03.957433"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:02:23.619743"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T09:02:23.635505"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T09:02:23.635505"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:04:15.703555"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T09:04:15.721742"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T09:04:15.730171"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:05:32.832211"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T09:05:32.848838"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T09:05:32.856850"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:05:49.594367"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T09:05:49.609444"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T09:05:49.623411"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:06:26.099744"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T09:06:26.103444"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T09:06:26.136946"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:06:26.176117"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:07:00.248453"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T09:07:00.266273"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T09:07:00.291356"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:07:00.327650"
+ },
+ {
+  "content": "Incident INC-0002: other severity 5 at kukatpally. Water is entering homes in Kukatpally, about 12 families trapped, an elderly man is unwell. Dispatched: ['first_aid']. Volunteers: ['Lakshmi Devi', 'Priya Nair', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:08:23.084560"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:22:10.674482"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T09:22:10.691731"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T09:22:10.721053"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:22:10.757997"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:22:32.213741"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T09:22:32.230442"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T09:22:32.257898"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:22:32.299899"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:31:23.581234"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T09:31:23.603157"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T09:31:23.632194"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:31:23.665796"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:31:23.679610"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:31:36.249686"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:31:52.034242"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T09:31:52.050615"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T09:31:52.076145"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:31:52.114708"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:31:52.128605"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:35:34.076449"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T09:35:34.098059"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T09:35:34.127549"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:35:34.161341"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:35:34.177591"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:37:01.894551"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T09:37:01.912615"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T09:37:01.938205"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:37:01.978912"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:37:01.995734"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:37:02.012032"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:38:18.282225"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T09:38:18.300466"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T09:38:18.328769"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:38:18.363558"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:38:18.378936"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:38:18.393967"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:39:04.958144"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T09:39:04.978394"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T09:39:05.006387"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:39:05.048687"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:39:05.067697"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:39:05.093628"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:44:39.658968"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T09:44:39.692450"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T09:44:39.713468"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:44:39.742310"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:44:39.774385"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:44:39.775681"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:51:49.689351"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T09:51:49.712494"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T09:51:49.742996"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:51:49.779122"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:51:49.802252"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:51:49.816867"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:57:23.498186"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T09:57:23.517540"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T09:57:23.543422"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:57:23.578974"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:57:23.594647"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:57:23.609558"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:58:05.508233"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T09:58:05.557105"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T09:58:05.594853"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:58:05.636696"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:58:05.652184"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:58:05.668547"
+ },
+ {
+  "content": "Incident INC-0001: maritime_emergency severity 5 at Mumbai, Maharashtra. Ship sinking, crew in distress and one person overboard Dispatched: ['boat', 'ambulance', 'first_aid']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Arjun Singh']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:58:05.689211"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:58:54.398753"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T09:58:54.417978"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T09:58:54.444466"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:58:54.480190"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:58:54.497341"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:58:54.511968"
+ },
+ {
+  "content": "Incident INC-0001: maritime_emergency severity 5 at Mumbai, Maharashtra. Ship sinking, crew in distress and one person overboard Dispatched: ['boat', 'ambulance', 'first_aid']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Arjun Singh']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:58:54.531195"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:59:57.000036"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T09:59:57.018583"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T09:59:57.045659"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:59:57.084180"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:59:57.099548"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:59:57.117368"
+ },
+ {
+  "content": "Incident INC-0001: maritime_emergency severity 5 at Mumbai, Maharashtra. Ship sinking, crew in distress and one person overboard Dispatched: ['boat', 'ambulance', 'first_aid']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Arjun Singh']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T09:59:57.134854"
+ },
+ {
+  "content": "Incident INC-0001: medical_emergency severity 3 at manikbhandar, nizamabad, Telangana. accidents Dispatched: ['ambulance', 'first_aid']. Volunteers: ['Dr. Anita Rao', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:09:23.905537"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:12:09.848844"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T10:12:09.868188"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T10:12:09.896140"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:12:09.935213"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:12:09.950908"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:12:09.974544"
+ },
+ {
+  "content": "Incident INC-0001: maritime_emergency severity 5 at Mumbai, Maharashtra. Ship sinking, crew in distress and one person overboard Dispatched: ['boat', 'ambulance', 'first_aid']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Arjun Singh']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:12:09.993060"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:18:24.261372"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T10:18:24.280710"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T10:18:24.309330"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:18:24.347456"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:18:24.365264"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:18:24.390719"
+ },
+ {
+  "content": "Incident INC-0001: maritime_emergency severity 5 at Mumbai, Maharashtra. Ship sinking, crew in distress and one person overboard Dispatched: ['boat', 'ambulance', 'first_aid']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Arjun Singh']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:18:24.407315"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:20:35.785092"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T10:20:35.804964"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T10:20:35.832292"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:20:35.867116"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:20:35.884638"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:20:35.908751"
+ },
+ {
+  "content": "Incident INC-0001: maritime_emergency severity 5 at Mumbai, Maharashtra. Ship sinking, crew in distress and one person overboard Dispatched: ['boat', 'ambulance', 'first_aid']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Arjun Singh']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:20:35.927447"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:33:16.564058"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T10:33:16.583574"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T10:33:16.610444"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:33:16.647451"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:33:16.664170"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:33:16.686360"
+ },
+ {
+  "content": "Incident INC-0001: maritime_emergency severity 5 at Mumbai, Maharashtra. Ship sinking, crew in distress and one person overboard Dispatched: ['boat', 'ambulance', 'first_aid']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Arjun Singh']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:33:16.829202"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:34:03.530652"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T10:34:03.550590"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T10:34:03.576270"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:34:03.617043"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:34:03.634930"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:34:03.659066"
+ },
+ {
+  "content": "Incident INC-0001: maritime_emergency severity 5 at Mumbai, Maharashtra. Ship sinking, crew in distress and one person overboard Dispatched: ['boat', 'ambulance', 'first_aid']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Arjun Singh']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:34:03.802140"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:34:57.365505"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T10:34:57.387788"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T10:34:57.414303"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:34:57.451034"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:34:57.469213"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:34:57.493514"
+ },
+ {
+  "content": "Incident INC-0001: maritime_emergency severity 5 at Mumbai, Maharashtra. Ship sinking, crew in distress and one person overboard Dispatched: ['boat', 'ambulance', 'first_aid']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Arjun Singh']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:34:57.513983"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:35:23.416543"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T10:35:23.435732"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T10:35:23.463431"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:35:23.501535"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:35:23.521432"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:35:23.546116"
+ },
+ {
+  "content": "Incident INC-0001: maritime_emergency severity 5 at Mumbai, Maharashtra. Ship sinking, crew in distress and one person overboard Dispatched: ['boat', 'ambulance', 'first_aid']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Arjun Singh']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:35:23.563809"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:41:17.638553"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T10:41:17.659576"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T10:41:17.687274"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:41:17.727483"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:41:17.746491"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:41:17.771990"
+ },
+ {
+  "content": "Incident INC-0001: maritime_emergency severity 5 at Mumbai, Maharashtra. Ship sinking, crew in distress and one person overboard Dispatched: ['boat', 'ambulance', 'first_aid']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Arjun Singh']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:41:17.792909"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:41:27.452383"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T10:41:27.475444"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T10:41:27.502617"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:41:27.540269"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:41:27.559370"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:41:27.584360"
+ },
+ {
+  "content": "Incident INC-0001: maritime_emergency severity 5 at Mumbai, Maharashtra. Ship sinking, crew in distress and one person overboard Dispatched: ['boat', 'ambulance', 'first_aid']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Arjun Singh']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:41:27.602902"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:42:18.788258"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T10:42:18.832953"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T10:42:18.862155"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:42:18.898817"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:42:18.917486"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:42:18.944231"
+ },
+ {
+  "content": "Incident INC-0001: maritime_emergency severity 5 at Mumbai, Maharashtra. Ship sinking, crew in distress and one person overboard Dispatched: ['boat', 'ambulance', 'first_aid']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Arjun Singh']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:42:18.963897"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:46:51.609088"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T10:46:51.629434"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T10:46:51.658335"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:46:51.696228"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:46:51.715938"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:46:51.744217"
+ },
+ {
+  "content": "Incident INC-0001: maritime_emergency severity 5 at Mumbai, Maharashtra. Ship sinking, crew in distress and one person overboard Dispatched: ['boat', 'ambulance', 'first_aid']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Arjun Singh']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:46:51.762860"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:51:20.070590"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T10:51:20.088804"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T10:51:20.105476"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:51:20.158240"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:51:20.176155"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:51:20.207545"
+ },
+ {
+  "content": "Incident INC-0001: maritime_emergency severity 5 at Mumbai, Maharashtra. Ship sinking, crew in distress and one person overboard Dispatched: ['boat', 'ambulance', 'first_aid']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Arjun Singh']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:51:20.222116"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:54:31.078161"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T10:54:31.098078"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T10:54:31.126879"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:54:31.159072"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:54:31.181704"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:54:31.212661"
+ },
+ {
+  "content": "Incident INC-0001: maritime_emergency severity 5 at Mumbai, Maharashtra. Ship sinking, crew in distress and one person overboard Dispatched: ['boat', 'ambulance', 'first_aid']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Arjun Singh']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T10:54:31.231618"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T11:00:21.238965"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T11:00:21.253535"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T11:00:21.286982"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T11:00:21.320132"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T11:00:21.336840"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T11:00:21.370196"
+ },
+ {
+  "content": "Incident INC-0001: maritime_emergency severity 5 at Mumbai, Maharashtra. Ship sinking, crew in distress and one person overboard Dispatched: ['boat', 'ambulance', 'first_aid']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Arjun Singh']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T11:00:21.387242"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 5 at kukatpally. Severe flooding in Kukatpally, 12 families trapped, elderly person unwell Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T11:01:31.262430"
+ },
+ {
+  "content": "Duplicate report merged into INC-0001: Severe flooding in Kukatpally, 12 families trapped, elderly person unwell",
+  "context": "emergency-coordination",
+  "ts": "2026-09-29T11:01:31.279533"
+ },
+ {
+  "content": "RESOLVED INC-0001 (flood at kukatpally, sev 5) outcome=success. Resources used: ['boat', 'pump', 'first_aid', 'tarpaulin']. Notes: boats and pumps worked",
+  "context": "resolution-history",
+  "ts": "2026-09-29T11:01:31.312919"
+ },
+ {
+  "content": "Dispatcher approved incident INC-REVIEW (medical_emergency at ameerpet) and dispatched response.",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T11:01:31.360893"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 4 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Fatima Begum']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T11:01:31.379534"
+ },
+ {
+  "content": "Incident INC-0001: flood severity 3 at Kukatpally, Hyderabad, Telangana. Heavy rain flooding near Kukatpally, 8 people affected Dispatched: ['boat', 'pump', 'first_aid', 'tarpaulin']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T11:01:31.462587"
+ },
+ {
+  "content": "Incident INC-0001: maritime_emergency severity 5 at Mumbai, Maharashtra. Ship sinking, crew in distress and one person overboard Dispatched: ['boat', 'ambulance', 'first_aid']. Volunteers: ['Ravi Kumar', 'Lakshmi Devi', 'Arjun Singh']. Shortages: [].",
+  "context": "incident-dispatch",
+  "ts": "2026-09-29T11:01:31.495876"
+ }
+]

@@ -1,0 +1,47 @@
+{
+  "locations": {
+    "kukatpally": [17.4948, 78.3996],
+    "ameerpet": [17.4375, 78.4483],
+    "secunderabad": [17.4399, 78.4983],
+    "charminar": [17.3616, 78.4747],
+    "gachibowli": [17.4401, 78.3489],
+    "lb nagar": [17.3457, 78.5522],
+    "hussain sagar": [17.4239, 78.4738],
+    "uppal": [17.4058, 78.5591],
+    "madhapur": [17.4483, 78.3915],
+    "dilsukhnagar": [17.3688, 78.5247]
+  },
+  "resources": [
+    {"id": "R1", "kind": "boat", "name": "Rescue boat", "location": "hussain sagar", "quantity": 2, "available": 2},
+    {"id": "R2", "kind": "pump", "name": "Water pump unit", "location": "kukatpally", "quantity": 4, "available": 4},
+    {"id": "R3", "kind": "pump", "name": "Water pump unit", "location": "lb nagar", "quantity": 3, "available": 3},
+    {"id": "R4", "kind": "ambulance", "name": "Ambulance", "location": "ameerpet", "quantity": 3, "available": 3},
+    {"id": "R5", "kind": "ambulance", "name": "Ambulance", "location": "uppal", "quantity": 2, "available": 2},
+    {"id": "R6", "kind": "first_aid", "name": "First-aid kits", "location": "secunderabad", "quantity": 20, "available": 20},
+    {"id": "R7", "kind": "jcb", "name": "JCB / earth mover", "location": "gachibowli", "quantity": 2, "available": 2},
+    {"id": "R8", "kind": "generator", "name": "Portable generator", "location": "charminar", "quantity": 5, "available": 5},
+    {"id": "R9", "kind": "traffic_police", "name": "Traffic police unit", "location": "madhapur", "quantity": 4, "available": 4},
+    {"id": "R10", "kind": "electrician", "name": "Electrical repair crew", "location": "dilsukhnagar", "quantity": 3, "available": 3},
+    {"id": "R11", "kind": "tarpaulin", "name": "Relief shelter kit", "location": "secunderabad", "quantity": 30, "available": 30}
+  ],
+  "volunteers": [
+    {"id": "V1", "name": "Ravi Kumar", "phone": "+91-90000-00001", "skills": ["swimming", "boat_operation", "rescue"], "location": "hussain sagar", "available": true, "completed": 5, "languages": ["telugu", "english"]},
+    {"id": "V2", "name": "Dr. Anita Rao", "phone": "+91-90000-00002", "skills": ["medical", "first_aid", "doctor"], "location": "ameerpet", "available": true, "completed": 8, "languages": ["english", "hindi"]},
+    {"id": "V3", "name": "Imran Shaikh", "phone": "+91-90000-00003", "skills": ["heavy_vehicle", "logistics", "rescue"], "location": "charminar", "available": true, "completed": 3, "languages": ["hindi", "telugu"]},
+    {"id": "V4", "name": "Lakshmi Devi", "phone": "+91-90000-00004", "skills": ["first_aid", "nursing", "shelter_management"], "location": "kukatpally", "available": true, "completed": 6, "languages": ["telugu"]},
+    {"id": "V5", "name": "Suresh Reddy", "phone": "+91-90000-00005", "skills": ["electrician", "generator", "logistics"], "location": "dilsukhnagar", "available": true, "completed": 2, "languages": ["telugu", "english"]},
+    {"id": "V6", "name": "Priya Nair", "phone": "+91-90000-00006", "skills": ["traffic_control", "communication", "logistics"], "location": "madhapur", "available": true, "completed": 4, "languages": ["english", "hindi", "telugu"]},
+    {"id": "V7", "name": "Arjun Singh", "phone": "+91-90000-00007", "skills": ["swimming", "rescue", "first_aid"], "location": "lb nagar", "available": true, "completed": 1, "languages": ["hindi", "english"]},
+    {"id": "V8", "name": "Fatima Begum", "phone": "+91-90000-00008", "skills": ["shelter_management", "communication", "translation"], "location": "secunderabad", "available": true, "completed": 7, "languages": ["urdu", "telugu", "hindi"]}
+  ],
+  "incidents": [],
+  "saved_locations": [],
+  "alert_history": [],
+  "facilities": [
+    {"id": "H-DEMO-1", "name": "Demo Government Hospital", "kind": "Hospital", "state": "Telangana", "district": "Hyderabad", "coordinates": [17.385, 78.4867], "source": "SIMULATED facility data"},
+    {"id": "S-DEMO-1", "name": "Demo Community Relief Shelter", "kind": "Shelter", "state": "Telangana", "district": "Hyderabad", "coordinates": [17.4239, 78.4738], "source": "SIMULATED facility data"},
+    {"id": "P-DEMO-1", "name": "Demo Police Help Point", "kind": "Police station", "state": "Telangana", "district": "Hyderabad", "coordinates": [17.4375, 78.4483], "source": "SIMULATED facility data"},
+    {"id": "F-DEMO-1", "name": "Demo Fire Station", "kind": "Fire station", "state": "Telangana", "district": "Hyderabad", "coordinates": [17.4948, 78.3996], "source": "SIMULATED facility data"},
+    {"id": "R-DEMO-1", "name": "Demo Relief Camp", "kind": "Relief camp", "state": "Telangana", "district": "Hyderabad", "coordinates": [17.3616, 78.4747], "source": "SIMULATED facility data"}
+  ]
+}
